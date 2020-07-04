@@ -8,8 +8,8 @@ public class Test {
 		Student st = new Student();
 		char[] password = new char[0];
 
-		st.setName("Volodya");
-		st.setSurName("Barunakovich");
+		st.setName("John");
+		st.setSurName("Smith");
 		st.setAge(-5);
 		st.setId(12112);
 		st.setPassword(password);
